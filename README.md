@@ -1,16 +1,11 @@
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/kodakasy-cloud/kodakasy-cloud/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/kodakasy-cloud/kodakasy-cloud/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+🦀 Koda Kasy
+Software Developer • Rust • Game Development • Systems
 
-###
+🇧🇷 Developer passionate about turning ideas into functional software.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodakasy-cloud/kodakasy-cloud/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodakasy-cloud/kodakasy-cloud/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kodakasy-cloud/kodakasy-cloud/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+I enjoy understanding how things work under the hood, breaking complex problems into smaller pieces, and turning those pieces into software that is organized, testable, and built to evolve.
 
+Currently, my main focus is Rust, while continuously exploring software architecture, systems programming, game development, and engineering fundamentals.
 ###
 
 <h1 data-importer="text" align="center">Web</h1>
@@ -74,3 +69,217 @@
 </div>
 
 ###
+🛠️ What I Like to Build
+
+I'm particularly interested in projects involving systems, logic, architecture, and interaction between different components.
+
+🦀 Rust
+
+Experimental projects focused on learning:
+
+Memory management
+Ownership & Borrowing
+Concurrency
+Architecture
+CLI applications
+Systems programming
+Performance
+Testing
+Software design
+🎮 Game Development
+
+Systems such as:
+
+Turn-based combat
+Character progression
+Stats & attributes
+Abilities
+Enemy AI
+Inventory systems
+In-game economy
+Exploration
+Multiplayer
+RPG systems
+🌐 Web & Backend
+
+I'm interested in building:
+
+APIs
+Web applications
+Backend systems
+Distributed systems
+Authentication
+Databases
+Service communication
+🐍 Automation & Software
+
+I also enjoy using Python and other languages to build:
+
+Automation tools
+Developer utilities
+Prototypes
+Applications
+Experiments
+📚 Languages & Perspectives
+
+I don't believe one language needs to replace another.
+
+Each language teaches a different way of thinking.
+
+🐍 Python
+   └─ Productivity & Prototyping
+
+⚙️ C++
+   └─ Low-level Programming & Performance
+
+🎯 C#
+   └─ Applications & Game Development
+
+🌐 JavaScript
+   └─ Web & Interactive Applications
+
+🌙 Lua / Luau
+   └─ Scripting & Game Development
+
+🦀 Rust
+   └─ Memory, Safety & Systems
+
+Working with different languages helps me approach problems from different perspectives.
+
+🎮 Game Development
+
+Game development is one of the areas that motivates me the most.
+
+I don't see games only as entertainment or visual projects.
+
+They are also an excellent way to study:
+
+Architecture
+Game Logic
+State Management
+AI
+Networking
+Data Structures
+Performance
+System Design
+
+I especially enjoy building RPG-style systems where multiple independent components need to work together.
+
+🚀 Projects
+
+Some of the types of projects I want to explore throughout my journey:
+
+Project	Goal
+🦀 Rust Projects	Learn Rust through real projects
+🎮 RPG Systems	Explore game architecture
+🌐 Web Applications	Build complete software systems
+⚙️ Developer Tools	Automate repetitive problems
+🧪 Experiments	Test ideas and technologies
+🏗️ Large Systems	Understand how software grows
+
+Some projects start as experiments.
+
+Some break.
+
+Others eventually become something much bigger.
+
+That's part of the process.
+
+🎯 Long-Term Goal
+
+My long-term goal is to work with software engineering, building systems that are:
+
+✓ Functional
+✓ Organized
+✓ Testable
+✓ Scalable
+✓ Maintainable
+✓ Well-Architected
+
+I want to go beyond simply making something work.
+
+I want to understand:
+
+Why does it work?
+
+How can it break?
+
+How can it be improved?
+
+How can it evolve?
+
+🧭 Current Roadmap
+Rust
+████████░░░░░░░░░░  Learning
+
+Systems Programming
+██████░░░░░░░░░░░░  Exploring
+
+Game Development
+████████░░░░░░░░░░  Building
+
+Software Architecture
+██████░░░░░░░░░░░░  Developing
+
+Backend
+██████░░░░░░░░░░░░  Exploring
+
+The goal isn't to complete a checklist.
+The goal is to keep building.
+
+⚡ Philosophy
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Build Again
+
+Programming is a continuous learning process.
+
+I don't want to simply collect technologies.
+
+I want to develop the ability to solve problems, design systems, and build things that matter.
+
+🧠 How I Approach Programming
+
+Before writing code, I like to understand the problem.
+
+My usual process looks something like this:
+
+Problem
+   ↓
+Analysis
+   ↓
+Break It Down
+   ↓
+Define Responsibilities
+   ↓
+Design
+   ↓
+Implement
+   ↓
+Test
+   ↓
+Debug
+   ↓
+Improve
+
+If the code broke, there's probably something there worth learning.
+
+👨‍💻 About Me
+🇧🇷 Brazilian developer
+🦀 Currently focused on Rust
+🎮 Passionate about game development
+🧠 Interested in understanding how things work internally
+🛠️ Learn best by building projects
+🔍 Interested in software architecture and systems
+🚀 Enjoy turning ideas into working software
+📚 Constantly exploring new technologies
