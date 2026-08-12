@@ -1,3 +1,8 @@
+🦀 Koda Kasy
+Software Developer • Rust • Game Development • Systems 🇧🇷 Brazil
+
+Passionate about turning ideas into clean, functional, and scalable software. I love looking under the hood, breaking down complex logic, and building robust systems.
+
 ###
 
 <h1 data-importer="text" align="center">Web</h1>
@@ -61,12 +66,6 @@
 </div>
 
 ###
-
-🦀 Koda Kasy
-Software Developer • Rust • Game Development • Systems 🇧🇷 Brazil
-
-Passionate about turning ideas into clean, functional, and scalable software. I love looking under the hood, breaking down complex logic, and building robust systems.
-
 
 🚀 What I Focus On
 🦀 Rust & Systems: Memory safety, concurrency, performance, and CLI/systems programming.
